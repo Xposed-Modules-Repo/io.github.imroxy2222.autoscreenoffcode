@@ -8,6 +8,8 @@ Xposed模块,基于LibXposed102开发
 可全局或单独对特定APP设置无操作息屏时间, 防止刷短视频过程中睡着, 第二天手机没电/发热巨大等问题
 
 模块只检测触摸操作, 当指定息屏时间内无操作时, 将强制息屏
+![alt text](res/95c0e9f539b954eb0ec81eb17a18cfd5.jpg)
+![alt text](res/1f627270e6aafc777b7ce455ad96402e.jpg)
 
 # 适配环境
 
